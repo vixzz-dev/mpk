@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "MPK SJONE",
+      "password": "193891917291",
+      "nama": "Admin MPK",
+      "role": "Admin"
+    },
+    {
+      "username": "ketua",
+      "password": "ketua123",
+      "nama": "Ketua MPK",
+      "role": "Ketua"
+    },
+    {
+      "username": "wakil",
+      "password": "wakil123",
+      "nama": "Wakil Ketua",
+      "role": "Wakil Ketua"
+    },
+    {
+      "username": "sekretaris",
+      "password": "sekretaris123",
+      "nama": "Sekretaris MPK",
+      "role": "Sekretaris"
+    },
+    {
+      "username": "bendahara",
+      "password": "bendahara123",
+      "nama": "Bendahara MPK",
+      "role": "Bendahara"
+    }
+  ]
+}
