@@ -41,6 +41,12 @@
       "password": "ganteng",
       "nama": "yangmulia",
       "role": "raja"
-    }
+    },
+    {
+      "username": "Fahri",
+      "password": "ketua osis",
+      "nama": "Ketua",
+      "role": "osis"
+}
   ]
 }
