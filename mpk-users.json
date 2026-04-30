@@ -1,40 +1,46 @@
 {
   "users": [
     {
-      "username": "MPK SJONE",
-      "password": "193891917291",
-      "nama": "Admin MPK",
+      "username": "AdminSjone",
+      "password": "12719927",
+      "nama": "Admin",
       "role": "Admin"
     },
     {
-      "username": "pipikgj",
+      "username": "pipik",
       "password": "ketuampk",
-      "nama": "Ketua Mpk",
+      "nama": "pipik",
       "role": "Admin"
     },
     {
-      "username": "wakil",
-      "password": "wakil123",
-      "nama": "Wakil Ketua",
+      "username": "diki",
+      "password": "wakilketua",
+      "nama": "diki",
       "role": "Wakil Ketua"
     },
     {
-      "username": "sekretaris",
-      "password": "sekretaris123",
-      "nama": "Sekretaris MPK",
+      "username": "taufiq",
+      "password": "sekretaris",
+      "nama": "taufiq",
       "role": "Sekretaris"
     },
     {
-      "username": "bendahara",
-      "password": "bendahara123",
-      "nama": "Bendahara MPK",
-      "role": "Bendahara"
+      "username": "amel",
+      "password": "sekretaris",
+      "nama": "amel",
+      "role": "sekretaris"
     },
     {
-      "username": "vixzz",
-      "password": "ganteng",
-      "nama": "SPY",
-      "role": "spy"
+      "username": "anindia",
+      "password": "bendahara",
+      "nama": "anindia",
+      "role": "bendahara"
+    },
+    {
+      "username": "tasya",
+      "password": "bendahara",
+      "nama": "tasya",
+      "role": "bendahara"
     },
     {
       "username": "dicki",
@@ -45,7 +51,7 @@
     {
       "username": "fahri",
       "password": "ketuaosis",
-      "nama": "Ketua",
+      "nama": "fahri",
       "role": "osis"
     }
   ]
